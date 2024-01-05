@@ -1,5 +1,7 @@
 # To Go
 
+## Stuttgart
+
 - [ ] sports
   - [ ] bouldering ([Vai](https://vels-stuttgart.de/))
   - [ ] trampolin ([BC](https://sprungbude.de/bad-cannstatt/zeiten-und-preise/))
@@ -30,3 +32,11 @@
         ([BC](https://de.wikipedia.org/wiki/Mineralbad_Leuze),
         [BB](https://www.mineraltherme-boeblingen.de/start.html),
         Ulm)
+
+## BW
+
+- [Laupheim](https://en.wikipedia.org/wiki/Laupheim) West:
+  [Mobipark](https://www.mobipark-laupheim.de/preise)
+  [Segelclub](https://www.scla.eu)
+  ([trainings](https://www.scla.eu/index.php/termine/trainingsplan-allg),
+  [preise](https://www.scla.eu/index.php/der-club/gebuehrenordnung-2))
