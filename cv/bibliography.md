@@ -1,10 +1,32 @@
+# Selected papers
+
+- Christoph Schweimer, Bernhard C. Geiger, Meizhu Wang, **Sergiy Gogolenko**, Imran Mahmood, Alireza Jahani, Diana Suleimenova & Derek Groen (2021)
+  *A route pruning algorithm for an automated geographic location graph construction*
+  [doi](https://doi.org/10.1038/s41598-021-90943-8)
+- Chia-Chen Chang, **Sergiy Gogolenko**, Jeffrey Perez, Zhaojun Bai & Richard T. Scalettar (2013)
+  *Recent advances in determinant [quantum Monte Carlo](https://en.wikipedia.org/wiki/Quantum_Monte_Carlo)*
+  [doi](https://doi.org/10.1080/14786435.2013.845314)
+- **Gogolenko S. Y.** (2010)
+  *Algebraic and Analytic Properties of Meshes on Metric Graphs*
+  [:ru:](https://pmap.donntu.edu.ua/sites/upload/articles/art264.pdf)
+- Svjatnyj V. A., **Gogolenko S. Y.** (2007)
+  *Approaches to the classification of continuous nonlinear global optimization methods*
+  [🇺🇦](https://pmap.donntu.edu.ua/sites/upload/articles/art167.pdf)
+
+
 # [Numerics](https://en.wikipedia.org/wiki/Numerical_analysis)
+
+<details><summary>Numerical Linear Algebra & PDEs</summary>
 
 ## [Linear Algebra](https://en.wikipedia.org/wiki/Numerical_linear_algebra) and [PDEs](https://en.wikipedia.org/wiki/Numerical_methods_for_partial_differential_equations)
 
 - **Sergiy Gogolenko**, Zhaojun Bai & Richard Scalettar (2014)
   *Structured Orthogonal Inversion of Block p-Cyclic Matrices on Multicores with GPU Accelerators*
   [doi](https://doi.org/10.1007/978-3-319-09873-9_44)
+- 
+  *Characteristic polynomials and spectra of symmetric matrices on metric graphs*
+  [:ru:](https://ea.donntu.edu.ua/jspui/bitstream/123456789/988/1/%d0%a5%d0%90%d0%a0%d0%90%d0%9a%d0%a2%d0%95%d0%a0%d0%98%d0%a1%d0%a2%d0%98%d0%a7%d0%95%d0%a1%d0%9a%d0%98%d0%95%20%d0%9f%d0%9e%d0%9b%d0%98%d0%9d%d0%9e%d0%9c%d0%ab%20%d0%98%20%d0%a1%d0%9f%d0%95%d0%9a%d0%a2%d0%a0%d0%ab%20%d0%a1%d0%98%d0%9c%d0%9c%d0%95%d0%a2%d0%a0%d0%98%d0%a7%d0%9d%d0%ab%d0%a5%20%d0%9c%d0%90%d0%a2%d0%a0%d0%98%d0%a6%20%d0%9d%d0%90%20%d0%93%d0%a0%d0%90%d0%a4%d0%90%d0%a5%20%d0%92%d0%a2%d0%9e%d0%a0%d0%98%d0%a7%d0%9d%d0%ab%d0%a5%20%d0%a2%d0%9e%d0%9f%d0%9e%d0%9b%d0%9e%d0%93%d0%98%d0%99.pdf)
+  [web](https://ea.donntu.edu.ua/jspui/handle/123456789/988?locale=en)
 - **Gogolenko S. Y.** (2010)
   *Algebraic and Analytic Properties of Meshes on Metric Graphs*
   [:ru:](https://pmap.donntu.edu.ua/sites/upload/articles/art264.pdf)
@@ -18,22 +40,46 @@
   *On the limitations of analytical and numerical solvers of equations describing the air flow in mine ventilation networks*
   [:ru:](https://pmap.donntu.edu.ua/sites/upload/articles/art210.pdf)
 
+</details>
+
+<details><summary>Numerical Optimization & MLE</summary>
+
 ## [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization) and [MLEs](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+
+- Master thesis (2006): *Study of locally deterministic methods of mathematical programming*
+  - early review
+    [in :ru:](https://masters.donntu.ru/2006/fvti/gogolenko/diss/index.htm)
+    [google-translate](https://masters-donntu-ru.translate.goog/2006/fvti/gogolenko/diss/index.htm?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=uk&_x_tr_pto=wapp)
 
 - Svjatnyj V. A., **Gogolenko S. Y.** (2007)
   *Approaches to the classification of continuous nonlinear global optimization methods*
-  [:ua:](https://pmap.donntu.edu.ua/sites/upload/articles/art167.pdf)
+  [🇺🇦](https://pmap.donntu.edu.ua/sites/upload/articles/art167.pdf)
 - **Gogolenko S. Y.**, Svjatnyj V. A. (2006)
   *Adaptation of locally deterministic optimization methods for solving parameter estimation problems by means of Gauss-Markov estimator*
-  [:ua:](https://pmap.donntu.edu.ua/sites/upload/articles/art119.pdf)
+  [🇺🇦](https://pmap.donntu.edu.ua/sites/upload/articles/art119.pdf)
+- **Gogolenko S. Y.** (2010)
+  *Implementation of the [Optimal Experimental Design](https://en.wikipedia.org/wiki/Optimal_experimental_design#Minimizing_the_variance_of_estimators) for Non-linear ODE-Driven Models with [Sigma Points](https://en.wikipedia.org/wiki/Unscented_transform#Sigma_points)*
+  [:ru:](https://docs.google.com/document/d/1_vR51YTD7cD11A69sIQopmZlPH2l7iUgj1Rxsr9t-Qw)
+- **Gogolenko S. Y.** (2008)
+  *Parameter estimation for mathematical models using parallel [memetic algorithms](https://en.wikipedia.org/wiki/Memetic_algorithm)*
+  [🇺🇦](https://ea.donntu.edu.ua/jspui/bitstream/123456789/9538/1/%d0%93%d0%be%d0%b3%d0%be%d0%bb%d0%b5%d0%bd%d0%ba%d0%be%20%d0%a1.%d0%ae..pdf)
+  [web](https://ea.donntu.edu.ua/jspui/handle/123456789/9538?locale=en)
+
+</details>
 
 # [Combinatorial Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms)
 
+<details><summary>Graph Theory</summary>
+
 - Christoph Schweimer, Bernhard C. Geiger, Meizhu Wang, **Sergiy Gogolenko**, Imran Mahmood, Alireza Jahani, Diana Suleimenova & Derek Groen (2021)
   *A route pruning algorithm for an automated geographic location graph construction*
-  [doi](https://doi.org/10.1038/s41598-021-90943-8)
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" style="height:1em" />](https://doi.org/10.1038/s41598-021-90943-8)
+
+</details>
 
 # [Computational Science](https://en.wikipedia.org/wiki/Computational_science): Applications
+
+<details><summary>Quantum chemistry / Electronic Structure</summary>
 
 ## [Quantum physics](https://en.wikipedia.org/wiki/Computational_chemistry)
 
@@ -41,7 +87,11 @@
   *Recent advances in determinant [quantum Monte Carlo](https://en.wikipedia.org/wiki/Quantum_Monte_Carlo)*
   [doi](https://doi.org/10.1080/14786435.2013.845314)
 
-## Social Sciences
+</details>
+
+<details><summary>Computational Social Sciences</summary>
+
+## [Social Sciences](https://en.wikipedia.org/wiki/Computational_social_science)
 
 - Derek Groen, Nikela Papadopoulou, Petros Anastasiadis, Marcin Lawenda, Lukasz Szustak, **Sergiy Gogolenko**, Hamid Arabnejad, Alireza Jahani (2023)
   *Large-Scale Parallelization of Human Migration Simulation*
@@ -62,9 +112,17 @@
   *Large Scale Agent Based Social Simulations with High Resolution Raster Inputs in Distributed HPC Environments*
   [doi](https://doi.org/10.1007/978-3-030-39181-2_16)
 
-# Misc
+</details>
 
-- Master thesis (2006): *Study of locally deterministic methods of mathematical programming*
-  - Early summary
-    [in :ru:](https://masters.donntu.ru/2006/fvti/gogolenko/diss/index.htm)
-    [google-translate](https://masters-donntu-ru.translate.goog/2006/fvti/gogolenko/diss/index.htm?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=uk&_x_tr_pto=wapp)
+<!-- [doi]: https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg \| height=1em -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" style="height:1em" /> -->
+
+# Qualification
+
+**PhD thesis** (2011)
+*Parallel Numerical Algorithms for Solving [PDEs](https://en.wikipedia.org/wiki/Partial_differential_equation) on [Graph-like Thin Manifolds](https://arxiv.org/abs/math-ph/0312028)*
+- abstract [🇺🇦](https://drive.google.com/file/d/0B0evGVV3naSPQk4wWjBfel9STmhtZVV0ZDRyUENJSmpSSDZz/view?usp=drivesdk&resourcekey=0-0-n1cRW-k7bqK_0Pi2h3nw)
+- full text: [:ru:](https://drive.google.com/file/d/0B0evGVV3naSPT0dRSy1xd1U5S3pTMkVaMW43LWFpTVlrTE1F/view?usp=drivesdk&resourcekey=0-721nvOE_vtQHb3FiDsTQTA)
+
+**Master thesis** (2006)
+*Study of locally deterministic methods of mathematical programming*
