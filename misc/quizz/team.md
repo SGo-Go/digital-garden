@@ -2,7 +2,7 @@
 
 ## Name ideas
 
-- $\frac{1}{2}$ nizza UA :strawberry: 🇺🇦
+- $\frac{1}{2}$ nizza UA :strawberry: :ukraine:
 - 田田nizza UA
 - 许多农田nizza
 

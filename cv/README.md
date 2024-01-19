@@ -5,5 +5,5 @@
   [linkedIn](https://ua.linkedin.com/in/sergiy-gogolenko)
 - bio @master-portal of DonNTU
   [:ru:](https://masters.donntu.ru/2006/fvti/gogolenko/)
-  [🇺🇦](https://masters.donntu.ru/2006/fvti/gogolenko/indexu.htm)
+  [:ukraine:](https://masters.donntu.ru/2006/fvti/gogolenko/indexu.htm)
 - [bibliography (research)](./bibliography.md)

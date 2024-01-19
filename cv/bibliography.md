@@ -11,10 +11,9 @@
   [:ru:](https://pmap.donntu.edu.ua/sites/upload/articles/art264.pdf)
 - Svjatnyj V. A., **Gogolenko S. Y.** (2007)
   *Approaches to the classification of continuous nonlinear global optimization methods*
-  [🇺🇦](https://pmap.donntu.edu.ua/sites/upload/articles/art167.pdf)
+  [:ukraine:](https://pmap.donntu.edu.ua/sites/upload/articles/art167.pdf)
 
-
-# [Numerics](https://en.wikipedia.org/wiki/Numerical_analysis)
+# [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
 
 <details><summary>Numerical Linear Algebra & PDEs</summary>
 
@@ -53,16 +52,16 @@
 
 - Svjatnyj V. A., **Gogolenko S. Y.** (2007)
   *Approaches to the classification of continuous nonlinear global optimization methods*
-  [🇺🇦](https://pmap.donntu.edu.ua/sites/upload/articles/art167.pdf)
+  [:ukraine:](https://pmap.donntu.edu.ua/sites/upload/articles/art167.pdf)
 - **Gogolenko S. Y.**, Svjatnyj V. A. (2006)
   *Adaptation of locally deterministic optimization methods for solving parameter estimation problems by means of Gauss-Markov estimator*
-  [🇺🇦](https://pmap.donntu.edu.ua/sites/upload/articles/art119.pdf)
+  [:ukraine:](https://pmap.donntu.edu.ua/sites/upload/articles/art119.pdf)
 - **Gogolenko S. Y.** (2010)
-  *Implementation of the [Optimal Experimental Design](https://en.wikipedia.org/wiki/Optimal_experimental_design#Minimizing_the_variance_of_estimators) for Non-linear ODE-Driven Models with [Sigma Points](https://en.wikipedia.org/wiki/Unscented_transform#Sigma_points)*
+  *Implementation of the [Optimal Experimental Design](https://en.wikipedia.org/wiki/Optimal_experimental_design#Minimizing_the_variance_of_estimators) for Non-linear [ODE](https://en.wikipedia.org/wiki/Ordinary_differential_equation)-Driven Models with [Sigma Points](https://en.wikipedia.org/wiki/Unscented_transform#Sigma_points)*
   [:ru:](https://docs.google.com/document/d/1_vR51YTD7cD11A69sIQopmZlPH2l7iUgj1Rxsr9t-Qw)
 - **Gogolenko S. Y.** (2008)
   *Parameter estimation for mathematical models using parallel [memetic algorithms](https://en.wikipedia.org/wiki/Memetic_algorithm)*
-  [🇺🇦](https://ea.donntu.edu.ua/jspui/bitstream/123456789/9538/1/%d0%93%d0%be%d0%b3%d0%be%d0%bb%d0%b5%d0%bd%d0%ba%d0%be%20%d0%a1.%d0%ae..pdf)
+  [:ukraine:](https://ea.donntu.edu.ua/jspui/bitstream/123456789/9538/1/%d0%93%d0%be%d0%b3%d0%be%d0%bb%d0%b5%d0%bd%d0%ba%d0%be%20%d0%a1.%d0%ae..pdf)
   [web](https://ea.donntu.edu.ua/jspui/handle/123456789/9538?locale=en)
 
 </details>
@@ -121,8 +120,12 @@
 
 **PhD thesis** (2011)
 *Parallel Numerical Algorithms for Solving [PDEs](https://en.wikipedia.org/wiki/Partial_differential_equation) on [Graph-like Thin Manifolds](https://arxiv.org/abs/math-ph/0312028)*
-- abstract [🇺🇦](https://drive.google.com/file/d/0B0evGVV3naSPQk4wWjBfel9STmhtZVV0ZDRyUENJSmpSSDZz/view?usp=drivesdk&resourcekey=0-0-n1cRW-k7bqK_0Pi2h3nw)
+- abstract [:ukraine:](https://drive.google.com/file/d/0B0evGVV3naSPQk4wWjBfel9STmhtZVV0ZDRyUENJSmpSSDZz/view?usp=drivesdk&resourcekey=0-0-n1cRW-k7bqK_0Pi2h3nw)
 - full text: [:ru:](https://drive.google.com/file/d/0B0evGVV3naSPT0dRSy1xd1U5S3pTMkVaMW43LWFpTVlrTE1F/view?usp=drivesdk&resourcekey=0-721nvOE_vtQHb3FiDsTQTA)
 
 **Master thesis** (2006)
 *Study of locally deterministic methods of mathematical programming*
+
+<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" hint="@google_scholar" style="height:1em" /> :
+[:en:](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=gogolenko&btnG=)
+[:ukraine:&:ru:](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=%D0%A1%D0%AE+%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE+&btnG=)
