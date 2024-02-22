@@ -17,4 +17,24 @@ Generic [^HH_INTERVIEW-IMPRESSION]
 12. Be honest but avoid negativity
 13. Try to react calmly
 
+## Values skills
+
+### Soft
+
+- Technical experts: [^Groeneveld:Non-cognitive-Abilities]
+  1. systematically verifying assumptions
+  2. curiousness
+  3. creativity
+  4. continuously improving
+- Business experts:
+  1. collaborating to achieve a shared goal
+  2. thinking in a solution-oriented way
+  3. continuously improving
+- Academics:
+  1. understanding and engaging with people involved
+  2. collaborating to achieve a shared goal
+  3. being open to the ideas of others
+
 [^HH_INTERVIEW-IMPRESSION]: 13 способов произвести хорошее впечатление на собеседовании [hh.ru](https://hh.ru/article/301406)
+
+[^Groeneveld:Non-cognitive-Abilities]: Wouter Groeneveld (2020) Non-cognitive Abilities of Exceptional Software Engineers: A Delphi Study https://dl.acm.org/doi/pdf/10.1145/3328778.3366811

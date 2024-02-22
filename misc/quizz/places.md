@@ -36,6 +36,14 @@
         [BB](https://www.mineraltherme-boeblingen.de/start.html)
         Ulm
 
+### Doctors
+
+| Parix         | Type |      Phone | Location |
+|---------------|------|------------|----------|
+| Dr. Enew      | GP   | 0711734082 | Vai      |
+| Dr. Tachtatzi | D    | 0711731486 | Vai      |
+| [Vaihingen](http://test.hautarzt-vaihingen.de/) | D    | +49 711 7353616 | Vai      |
+
 ## BW
 
 ### Water

@@ -20,14 +20,14 @@
 ## [Linear Algebra](https://en.wikipedia.org/wiki/Numerical_linear_algebra) and [PDEs](https://en.wikipedia.org/wiki/Numerical_methods_for_partial_differential_equations)
 
 - **Sergiy Gogolenko**, Zhaojun Bai & Richard Scalettar (2014)
-  *Structured Orthogonal Inversion of Block p-Cyclic Matrices on Multicores with GPU Accelerators*
+  *Structured [Orthogonal](https://en.wikipedia.org/wiki/QR_decomposition) Inversion of Block $p$-Cyclic Matrices on Multicores with [GPU Accelerators](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)*
   [doi](https://doi.org/10.1007/978-3-319-09873-9_44)
 - 
-  *Characteristic polynomials and spectra of symmetric matrices on metric graphs*
+  *[Characteristic polynomials](https://en.wikipedia.org/wiki/Characteristic_polynomial) and [spectra](https://en.wikipedia.org/wiki/Spectral_graph_theory) of symmetric matrices on metric graphs*
   [:ru:](https://ea.donntu.edu.ua/jspui/bitstream/123456789/988/1/%d0%a5%d0%90%d0%a0%d0%90%d0%9a%d0%a2%d0%95%d0%a0%d0%98%d0%a1%d0%a2%d0%98%d0%a7%d0%95%d0%a1%d0%9a%d0%98%d0%95%20%d0%9f%d0%9e%d0%9b%d0%98%d0%9d%d0%9e%d0%9c%d0%ab%20%d0%98%20%d0%a1%d0%9f%d0%95%d0%9a%d0%a2%d0%a0%d0%ab%20%d0%a1%d0%98%d0%9c%d0%9c%d0%95%d0%a2%d0%a0%d0%98%d0%a7%d0%9d%d0%ab%d0%a5%20%d0%9c%d0%90%d0%a2%d0%a0%d0%98%d0%a6%20%d0%9d%d0%90%20%d0%93%d0%a0%d0%90%d0%a4%d0%90%d0%a5%20%d0%92%d0%a2%d0%9e%d0%a0%d0%98%d0%a7%d0%9d%d0%ab%d0%a5%20%d0%a2%d0%9e%d0%9f%d0%9e%d0%9b%d0%9e%d0%93%d0%98%d0%99.pdf)
   [web](https://ea.donntu.edu.ua/jspui/handle/123456789/988?locale=en)
 - **Gogolenko S. Y.** (2010)
-  *Algebraic and Analytic Properties of Meshes on Metric Graphs*
+  *[Algebraic and Analytic Properties](https://en.wikipedia.org/wiki/Spectral_graph_theory) of Meshes on Metric Graphs*
   [:ru:](https://pmap.donntu.edu.ua/sites/upload/articles/art264.pdf)
 - **Gogolenko S. Y.**, Svjatnyj V. A. (2010)
   *[Direct method](https://en.wikipedia.org/wiki/Iterative_method), based on [Thomas algorithm](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm), for solving linear systems of discretized stationary and parabolic problems on [graph-like thin manifolds](https://arxiv.org/abs/math-ph/0312028)*
@@ -103,7 +103,7 @@
   [doi](https://doi.org/10.1007/978-3-030-50433-5_32)
 - Damian Kaliszan, Norbert Meyer, Sebastian Petruczynik, Michael Gienger, **Sergiy Gogolenko**
   *HPC Processors Benchmarking Assessment for Global System Science Applications*
-  [doi](https://doi.org/10.14529/jsfi190202 )
+  [doi](https://doi.org/10.14529/jsfi190202)
 - Damian Kaliszan, Steffen Fürst, Michael Gienger, **Sergiy Gogolenko**, Norbert Meyer, Sebastian Petruczynik (2019)
   *Comparative benchmarking of HPC systems for GSS applications: GSS applications in the HPC ecosystem*
   [doi](https://doi.org/10.1145/3293320.3293326)
@@ -126,6 +126,7 @@
 **Master thesis** (2006)
 *Study of locally deterministic methods of mathematical programming*
 
-<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" hint="@google_scholar" style="height:1em" /> :
-[:en:](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=gogolenko&btnG=)
-[:ukraine:&:ru:](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=%D0%A1%D0%AE+%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE+&btnG=)
+<!-- <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" hint="@google_scholar" style="height:1em" /> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" hint="@google_scholar" style="height:1em" /> :
+[:us:](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=gogolenko&btnG=)
+[:ukraine:/:ru:](https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=%D0%A1%D0%AE+%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE+&btnG=)
