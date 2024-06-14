@@ -1,5 +1,7 @@
 # Registration
 
+- Повідомлення про обробку персональних даних | [Дія](https://diia.gov.ua/app_policy)
+
 # Booking
 
 - Flixbus: 

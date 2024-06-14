@@ -23,10 +23,13 @@
 ## Outcomes
 
 - remarkable losses
-  <!-- - `20240-02-14` Large landing ship BDK-64 [Caesar Kunikov](https://en.wikipedia.org/wiki/Russian_ship_Caesar_Kunikov) -->
-  - `2024-01-14` Beriev [A-50](https://en.wikipedia.org/wiki/Beriev_A-50)
-  - `2023-09-13` Submarine [Rostov-na-Donu (B-237)](https://en.wikipedia.org/wiki/Russian_submarine_B-237)
-  - `2022-04-14` Cruiser [Moskva](https://en.wikipedia.org/wiki/Sinking_of_the_Moskva)
+  - marine
+    <!-- - `20240-02-14` Large landing ship BDK-64 [Caesar Kunikov](https://en.wikipedia.org/wiki/Russian_ship_Caesar_Kunikov) -->
+    - `2023-09-13` Submarine [Rostov-na-Donu (B-237)](https://en.wikipedia.org/wiki/Russian_submarine_B-237)
+    - `2022-04-14` Cruiser [Moskva](https://en.wikipedia.org/wiki/Sinking_of_the_Moskva)
+  - air forces
+    - `2024-06-08` Felon [Su-57](https://en.wikipedia.org/wiki/Sukhoi_Su-57)
+    - `2024-01-14` Beriev [A-50](https://en.wikipedia.org/wiki/Beriev_A-50)
 
 - losses:
   aircraft (
@@ -95,9 +98,22 @@ Forced Human migration:
 
 </details>
 
+## In culture
+
+TED talks:
+- *What the World Can Learn From Ukraine’s Fight for Democracy* | [Olesya Khromeychuk](https://www.olesyakhromeychuk.com/) | [TED](https://www.youtube.com/watch?v=mJy_wVSKwwA)
+- *How to Design for Dignity During Times of War* | Slava Balbek | [TED](https://www.youtube.com/watch?v=qaE194b_Dk8)
+
 ## Legal consequences
 
-Кінець скандалу зі спермою. Рада захистила військових
-https://ua.korrespondent.net/ukraine/4662074-kinets-skandalu-zi-spermoui-rada-zakhystyla-viiskovykh
+- Sperm law [^sperm-law]
+
+[^sperm-law]: https://ua.korrespondent.net/ukraine/4662074-kinets-skandalu-zi-spermoui-rada-zakhystyla-viiskovykh
+
+## War & peace
+
+- rock bands in Lyman
+  [1](https://www.alamy.de/stockfoto-ein-teenager-rock-band-probe-im-jugendzentrum-am-lyman-ato-zone-oblast-donezk-ukraine-163348425.html)
+  [2](https://www.alamy.com/stock-image-a-teenage-rock-band-rehearsal-in-youth-center-at-lyman-ato-zone-donetsk-163348424.html)
 
 ## Conclusions
