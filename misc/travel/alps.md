@@ -4,6 +4,8 @@
 
 To see:
 [Eibsee](https://en.wikipedia.org/wiki/Eibsee)
+[Partnach Gorge](https://en.wikipedia.org/wiki/Partnach_Gorge)
+[Fernsteinsee/Sigmundsburg](https://de.wikipedia.org/wiki/Ruine_Sigmundsburg)
 
 ```geojson
 {
@@ -26,7 +28,8 @@ To see:
                 "coordinates": [11.04377324994802, 47.450704096365065]
             },
             "properties": {
-                "name": "Höllentalklamm"
+                "name": "Partnach Gorge (Höllentalklamm)",
+                "type": "gorge"
             }
         },
         {
@@ -36,7 +39,8 @@ To see:
                 "coordinates": [10.935479092238037, 47.369149850956006]
             },
             "properties": {
-                "name": "Seebensee"                
+                "name": "Seebensee",
+                "type": "lake"
             }
         },
         {
@@ -46,7 +50,8 @@ To see:
                 "coordinates": [10.823705035310415, 47.345694867278816]
             },
             "properties": {
-                "name": "Fernsteinsee (Ruine Sigmundsburg)"                
+                "name": "Fernsteinsee (Ruine Sigmundsburg)",
+                "type": "lake"
             }
         }
         
@@ -119,7 +124,8 @@ To see:
                 "coordinates": [12.301169501884724, 46.61841375769846]
             },
             "properties": {
-                "name": "Drei Zinnen"
+                "name": "Drei Zinnen",
+                "type": "mounts"
             }
         },
         {
@@ -129,7 +135,8 @@ To see:
                 "coordinates": [12.084469370650107, 46.69335650690778]
             },
             "properties": {
-                "name": "Pragser wild lake" 
+                "name": "Pragser wild lake",
+                "type": "lake"
             }
         },
         {
@@ -139,11 +146,13 @@ To see:
                 "coordinates": [11.345022725344888, 46.50086501577372]
             },
             "properties": {
-                "name": "Bolzano"                 
+                "name": "Bolzano",
+                "type": "city"
             }
         }
     ]
-}```
+}
+```
 
 # France
 
