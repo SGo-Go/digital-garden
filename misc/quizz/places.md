@@ -41,9 +41,12 @@
         [Kartion Gärtringen](https://www.kartion.de) (BB)
   - [ ] BBQ: Prinz-Friedrich-Eiche
 
-### Area
+### Music fests
 
-- music:
+- local:
+  [Kessel](https://kesselfestival.de/)
+  [Rohrer-Seefest](https://www.rohrer-seefest.de/)
+- area:
   [BIT in Wernau](https://bluesintown.de/Programm.html)
   [Nürtinger Musiknacht](https://www.nuertingen.de/de/nuertingen-fuer-alle/kultur-sport-freizeit/kulturprogramm/nuertinger-musiknacht/)
 
@@ -101,20 +104,44 @@
 
 ```geojson
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [9.428260771164307, 48.72175227699382],
-      [9.103907187160198, 48.70446439478087],
-      [9.095578655821544, 48.72165257729547]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.428260771164307, 48.72175227699382]
+            },
+            "properties": {
+                "name": "Kletterwald Plochingen GmbH",
+                "type": "Kletterparken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.103907187160198, 48.70446439478087]
+            },
+            "properties": {
+                "name": "Kletterpark Stuttgart Schmellbachtal",
+                "type": "Kletterparken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.095578655821544, 48.72165257729547]
+            },
+            "properties": {
+                "name": "TOP:aktiv e.V.",
+                "type": "Kletterparken"
+            }
+        }
     ]
-  },
-  "properties": {
-    "name": "Kletterparken"
-  }
-}
-```
+}```
+<!-- https://geojson.org/ -->
 
 ### Other
 
