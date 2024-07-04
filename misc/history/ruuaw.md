@@ -64,6 +64,7 @@ Celebrities:
 
 Scientists:
 [Günter M. Ziegler](https://youtu.be/yOd4NCZQPZ0)
+[Konstantin Novoselov](https://en.wikipedia.org/wiki/Konstantin_Novoselov)
 
 </details>
 
