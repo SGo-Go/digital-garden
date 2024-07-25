@@ -105,11 +105,24 @@ TED talks:
 - *What the World Can Learn From Ukraine’s Fight for Democracy* | [Olesya Khromeychuk](https://www.olesyakhromeychuk.com/) | [TED](https://www.youtube.com/watch?v=mJy_wVSKwwA)
 - *How to Design for Dignity During Times of War* | Slava Balbek | [TED](https://www.youtube.com/watch?v=qaE194b_Dk8)
 
-## Legal consequences
+## Consequences
+### Legal 
 
 - Sperm law [^sperm-law]
 
 [^sperm-law]: https://ua.korrespondent.net/ukraine/4662074-kinets-skandalu-zi-spermoui-rada-zakhystyla-viiskovykh
+
+### Nature
+
+<details><summary>Lyman area</summary>
+
+- [Serebryansky forest](https://en.wikipedia.org/wiki/Serebryansky_forest):
+  [![:tv: TSN](https://img.shields.io/badge/TV-TSN-red)](https://1plus1.video/novosti-tsn/ukraina-yakij-zaraz-mae-viglyad-sumnozvisnij-serebryanskij-lis-video)
+  [![:tv: NV](https://img.shields.io/badge/TV-NV-red)](https://nv.ua/ukr/ukraine/events/z-yavilosya-video-znishchenogo-rosiyskim-vtorgnennyam-serebryanskogo-lisu-na-luganshchini-novini-ukrajini-50411776.html)
+  - Серебрянський ліс очима воїна-піхотинця бригади «Буревій» НГУ
+    [![:play:](https://img.shields.io/youtube/views/GuMnOcEZZ90?style=social&logo=youtube)](https://youtu.be/GuMnOcEZZ90)
+
+</details>
 
 ## War & peace
 

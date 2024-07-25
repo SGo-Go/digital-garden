@@ -10,7 +10,7 @@
 
 - factory reset:[^nook-reset]
   - Make sure the unit is turned off.
-  - Hold the Home buttonand power button then release them when you see the word "nook" appear on the middle of the screen.
+  - Hold the Home button and power button then release them when you see the word "nook" appear on the middle of the screen.
 
 [^nook-reset]: https://www.wikihow.com/Reset-a-Nook-HD
 

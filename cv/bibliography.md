@@ -2,10 +2,12 @@
 
 - Christoph Schweimer, Bernhard C. Geiger, Meizhu Wang, **Sergiy Gogolenko**, Imran Mahmood, Alireza Jahani, Diana Suleimenova & Derek Groen (2021)
   *A route pruning algorithm for an automated geographic location graph construction*
-  [doi](https://doi.org/10.1038/s41598-021-90943-8)
+  [![doi:10.1038/s41598-021-90943-8](https://img.shields.io/badge/DOI-10.1038/s41598--021--90943--8-cyan)](https://doi.org/10.1038/s41598-021-90943-8)
+  ![citation](https://api.juleskreuer.eu/citation-badge.php?doi=10.1038/s41598-021-90943-8)
 - Chia-Chen Chang, **Sergiy Gogolenko**, Jeffrey Perez, Zhaojun Bai & Richard T. Scalettar (2013)
   *Recent advances in determinant [quantum Monte Carlo](https://en.wikipedia.org/wiki/Quantum_Monte_Carlo)*
-  [doi](https://doi.org/10.1080/14786435.2013.845314)
+  [![doi:10.1080/14786435.2013.845314](https://img.shields.io/badge/DOI-10.1080/14786435.2013.845314-cyan)](https://doi.org/10.1080/14786435.2013.845314)
+  ![citation](https://api.juleskreuer.eu/citation-badge.php?doi=10.1080/14786435.2013.845314)
 - **Gogolenko S. Y.** (2010)
   *Algebraic and Analytic Properties of Meshes on Metric Graphs*
   [:ru:](https://pmap.donntu.edu.ua/sites/upload/articles/art264.pdf)
@@ -21,7 +23,7 @@
 
 - **Sergiy Gogolenko**, Zhaojun Bai & Richard Scalettar (2014)
   *Structured [Orthogonal](https://en.wikipedia.org/wiki/QR_decomposition) Inversion of Block $p$-Cyclic Matrices on Multicores with [GPU Accelerators](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)*
-  [doi](https://doi.org/10.1007/978-3-319-09873-9_44)
+  [![doi:10.1007/978-3-319-09873-9_44](https://img.shields.io/badge/DOI-10.1007/978--3--319--09873--9_44-cyan)](https://doi.org/10.1007/978-3-319-09873-9_44)
 - 
   *[Characteristic polynomials](https://en.wikipedia.org/wiki/Characteristic_polynomial) and [spectra](https://en.wikipedia.org/wiki/Spectral_graph_theory) of symmetric matrices on metric graphs*
   [:ru:](https://ea.donntu.edu.ua/jspui/bitstream/123456789/988/1/%d0%a5%d0%90%d0%a0%d0%90%d0%9a%d0%a2%d0%95%d0%a0%d0%98%d0%a1%d0%a2%d0%98%d0%a7%d0%95%d0%a1%d0%9a%d0%98%d0%95%20%d0%9f%d0%9e%d0%9b%d0%98%d0%9d%d0%9e%d0%9c%d0%ab%20%d0%98%20%d0%a1%d0%9f%d0%95%d0%9a%d0%a2%d0%a0%d0%ab%20%d0%a1%d0%98%d0%9c%d0%9c%d0%95%d0%a2%d0%a0%d0%98%d0%a7%d0%9d%d0%ab%d0%a5%20%d0%9c%d0%90%d0%a2%d0%a0%d0%98%d0%a6%20%d0%9d%d0%90%20%d0%93%d0%a0%d0%90%d0%a4%d0%90%d0%a5%20%d0%92%d0%a2%d0%9e%d0%a0%d0%98%d0%a7%d0%9d%d0%ab%d0%a5%20%d0%a2%d0%9e%d0%9f%d0%9e%d0%9b%d0%9e%d0%93%d0%98%d0%99.pdf)

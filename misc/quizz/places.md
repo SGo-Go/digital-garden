@@ -58,6 +58,31 @@
 | Dr. Tachtatzi | D    | 0711731486 | Vai      |
 | [Vaihingen](http://test.hautarzt-vaihingen.de/) | D    | +49 711 7353616 | Vai      |
 
+<details><summary>@Vai</summary>
+
+```geojson
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.428260771164307, 48.72175227699382]
+            },
+            "properties": {
+                "name": "Orthopädie-Studio Decker",
+                "address": "Katzenbachstraße 52, 70563 Stuttgart",
+                "web": "https://www.sani-decker.de/",
+                "type": "apotheke"
+            }
+        }
+    ]
+}
+```
+
+</details>
+
 ## BW
 
 ### Water
