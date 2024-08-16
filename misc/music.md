@@ -157,6 +157,25 @@ Songs
   [![:play:](https://img.shields.io/youtube/views/BY_XwvKogC8?style=social&logo=youtube)](https://youtu.be/BY_XwvKogC8)
 - Tate McRae - greedy
   [![:play:](https://img.shields.io/youtube/views/To4SWGZkEPk?style=social&logo=youtube)](https://youtu.be/To4SWGZkEPk)
+- Dasha - Austin
+  [![:play:](https://img.shields.io/youtube/views/FyjnbSsZ2tc?style=social&logo=youtube)](https://youtu.be/FyjnbSsZ2tc)
+
+- [Childish Gambino](https://en.wikipedia.org/wiki/Donald_Glover) - Lithonia
+  [![:play:](https://img.shields.io/youtube/views/yD9Xo0V-hPw?style=social&logo=youtube)](https://youtu.be/yD9Xo0V-hPw)
+- Dua Lipa - Houdini
+  [![:play:](https://img.shields.io/youtube/views/suAR1PYFNYA?style=social&logo=youtube)](https://youtu.be/suAR1PYFNYA)
+
+<!-- dance -->
+- Diplo - Use Me (Brutal Hearts) ft. Johnny Blue Skies & Dove Cameron
+  [![:play:](https://img.shields.io/youtube/views/_OX3uUhgusM?style=social&logo=youtube)](https://youtu.be/_OX3uUhgusM)
+- Kygo, Ava Max - Whatever 
+  [![:play:](https://img.shields.io/youtube/views/ZDZiXmCl4pk?style=social&logo=youtube)](https://youtu.be/ZDZiXmCl4pk)
+
+<!-- slow -->
+- Labrinth - Never Felt So Alone
+  [![:play:](https://img.shields.io/youtube/views/pqCVMRcj_bc?style=social&logo=youtube)](https://youtu.be/pqCVMRcj_bc)
+- Toosii - Favorite Song 
+  [![:play:](https://img.shields.io/youtube/views/4D89Qr5vH6U?style=social&logo=youtube)](https://youtu.be/4D89Qr5vH6U)
 
 <!-- - Marshmello, Kane Brown - Miles On It
   [![:play:](https://img.shields.io/youtube/views/RMmoyP_cpEg?style=social&logo=youtube)](https://youtu.be/RMmoyP_cpEg) -->
@@ -174,7 +193,7 @@ Songs
 
 - [Kendrick Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar) - Not Like Us
   [![:play:](https://img.shields.io/youtube/views/T6eK-2OQtew?style=social&logo=youtube)](https://youtu.be/T6eK-2OQtew)
-- [[https://en.wikipedia.org/wiki/Central_Cee][Central Cee]] Ft. Lil Baby - Band4band
+- [Central Cee](https://en.wikipedia.org/wiki/Central_Cee) Ft. Lil Baby - Band4band
   [![:play:](https://img.shields.io/youtube/views/pDddlvCfTiw?style=social&logo=youtube)](https://youtu.be/pDddlvCfTiw)
 - Lil Durk - All My Life ft. J. Cole
   [![:play:](https://img.shields.io/youtube/views/Z4N8lzKNfy4?style=social&logo=youtube)](https://youtu.be/Z4N8lzKNfy4)
@@ -195,3 +214,16 @@ Songs
   [![:play:](https://img.shields.io/youtube/views/FbFu2O_z8cw?style=social&logo=youtube)](https://youtu.be/FbFu2O_z8cw)
 
 </details>
+
+## Latino
+
+- [Romeo Santos](https://en.wikipedia.org/wiki/Romeo_Santos) - Llévame Contigo
+  [![:play:](https://img.shields.io/youtube/views/VafbNsrHnD8?style=social&logo=youtube)](https://youtu.be/VafbNsrHnD8)
+- [Ozuna](https://en.wikipedia.org/wiki/Ozuna) ft. [Romeo Santos](https://en.wikipedia.org/wiki/Romeo_Santos) - [El Farsante](https://en.wikipedia.org/wiki/El_Farsante)
+  [![:play:](https://img.shields.io/youtube/views/wfWkmURBNv8?style=social&logo=youtube)](https://youtu.be/wfWkmURBNv8)
+  [lyrics](https://www.letras.com/ozuna/el-farsante-remix-part-romeo-santos/)
+- Aventura - Obsesión (ft. Judy Santos)
+  [![:play:](https://img.shields.io/youtube/views/8_QY5gFQUTg?style=social&logo=youtube)](https://youtu.be/8_QY5gFQUTg)
+
+- Ozuna - Dile Que Tu Me Quieres
+  [![:play:](https://img.shields.io/youtube/views/WAcnWtZjDWE?style=social&logo=youtube)](https://youtu.be/WAcnWtZjDWE)

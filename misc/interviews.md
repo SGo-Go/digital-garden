@@ -38,3 +38,16 @@ Generic [^HH_INTERVIEW-IMPRESSION]
 [^HH_INTERVIEW-IMPRESSION]: 13 способов произвести хорошее впечатление на собеседовании [hh.ru](https://hh.ru/article/301406)
 
 [^Groeneveld:Non-cognitive-Abilities]: Wouter Groeneveld (2020) Non-cognitive Abilities of Exceptional Software Engineers: A Delphi Study https://dl.acm.org/doi/pdf/10.1145/3328778.3366811
+
+## Job boards
+
+- Top 16 Job Boards
+  [![www:deutschland](https://img.shields.io/badge/deutschland-gray.svg?logo=W3Schools)](https://www.deutschland.de/en/topic/business/job-boards-in-germany-stepstone-xing-truffls)
+  [![www:workello](https://img.shields.io/badge/workello-gray.svg?logo=W3Schools)](https://workello.com/job-boards-germany/)
+
+Coding:
+- StepStone
+  [Official API](https://api.stepstone.com/)
+  [Evolution-StepStone Candidate Search API](https://github.com/EvolutionJobs/Evolution-StepStone)
+
+

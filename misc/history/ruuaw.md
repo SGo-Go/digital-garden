@@ -124,6 +124,13 @@ TED talks:
 
 </details>
 
+<details><summary>Odesa area</summary>
+
+- `29.07.2024` Коло берегів Чорноморська побачили пінгвіна
+  [![:tv: NV](https://img.shields.io/badge/media-korrespondent-yellow)](https://ua.korrespondent.net/ukraine/4704930-kolo-berehiv-chornomorska-pobachyly-pinhvina)
+
+</details>
+
 ## War & peace
 
 - rock bands in Lyman

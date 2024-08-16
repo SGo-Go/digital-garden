@@ -82,6 +82,27 @@
 
   </details>
 
+- Einbuergerung
+  - legal basis: AufenthG
+    [§18c](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
+  - misc:
+    [web](https://www.gesetze-im-internet.de/aufenthg_2004/__9a.html)
+    [Stuttgart](https://www.stuttgart.de/organigramm/leistungen/einbuergerung-fuer-auslaender-mit-einbuergerungsanspruch-beantragen.php)
+  <details><summary>documents</summary>
+
+    - [Antrag](https://www.stuttgart.de/medien/ibs/niederlassungserlaubnis-antrag.pdf)
+    - 1 biometrisches Passfoto
+    - Sprache (Niveau B1)
+    - [Integrationskurse](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html;jsessionid=A6ED2DBAC51972FB51F42A0FA5CC87C8.intranet372)
+    - [Beitragsnachweis](https://www.deutsche-rentenversicherung.de/SharedDocs/Glossareintraege/DE/B/beitragsnachweis.html):
+      [register](https://www.deutsche-rentenversicherung.de/DRV/DE/Kundenportal/kundenportal-node.html)
+    - [Wohnraumnachweis](https://www.stuttgart.de/medien/ibs/32-41_0549.pdf)
+    - Erklärung zu Vorstrafen / Sozialleistungen
+      [v2](https://km-bw.de/site/pbs-bw-km-root/get/documents_E-835803849/KULTUS.Dachmandant/KULTUS/KM-Homepage/Ukraine-Krieg/KM-Infoschreiben%20Ukraine-Krieg/Anlage%20Erkl%C3%A4rung%20zu%20Vorstrafen.pdf)
+      [v1](www.berlin.de/gerichte/kammergericht/_assets/rechtsreferendariat/bewerbungsverfahren/erklaerung_zu_vorstrafen.pdf)
+  
+  </details>
+
 - Ausländerbehörde:
   [contacts](https://www.stuttgart.de/buergerinnen-und-buerger/migranten/informationen-der-auslaenderbehoerde/auslaenderbehoerde-terminvereinbarung.php)
   [services](https://stuttgart.konsentas.de/form/7/?signup_new=1)
