@@ -32,6 +32,28 @@ To see:
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [-3.8392720757425924, 36.75656991686646]
+            },
+            "properties": {
+                "name": "Cascada de Maro (Nerja)",
+                "type": "waterfalls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.880430379751608, 36.7830182737375]
+            },
+            "properties": {
+                "name": "Río Chíllar (Nerja)",
+                "type": "slot canyon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [-3.849928037882969, 36.75906913529836]
             },
             "properties": {
