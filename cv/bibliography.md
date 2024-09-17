@@ -2,7 +2,7 @@
 
 - Christoph Schweimer, Bernhard C. Geiger, Meizhu Wang, **Sergiy Gogolenko**, Imran Mahmood, Alireza Jahani, Diana Suleimenova & Derek Groen (2021)
   *A route pruning algorithm for an automated geographic location graph construction*
-  [![doi:10.1038/s41598-021-90943-8](https://img.shields.io/badge/DOI-10.1038/s41598--021--90943--8-cyan)](https://doi.org/10.1038/s41598-021-90943-8)
+  [![doi:10.1038/s41598-021-90943-8](https://img.shields.io/badge/DOI-10.1038/s41598--021--90943--8-cyan?logo=doi)](https://doi.org/10.1038/s41598-021-90943-8)
   [![citation](https://api.juleskreuer.eu/citation-badge.php?doi=10.1038/s41598-021-90943-8)](https://scholar.google.com/scholar?cites=9308280683022985180&as_sdt=2005&sciodt=0,5&hl=en)
 - Chia-Chen Chang, **Sergiy Gogolenko**, Jeffrey Perez, Zhaojun Bai & Richard T. Scalettar (2013)
   *Recent advances in determinant [quantum Monte Carlo](https://en.wikipedia.org/wiki/Quantum_Monte_Carlo)*

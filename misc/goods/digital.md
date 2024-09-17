@@ -30,3 +30,12 @@
 ## Reusable Hard
 
 - Rocketbook Core Reusable Smart Notebook [amz](https://www.amazon.com/dp/B07WMVDX64)
+
+# Smartphone
+
+- Google pixel
+  [7](https://www.amazon.de/Google-Pixel-Entsperrtes-Android-Smartphone-Weitwinkelobjektiv/dp/B0BDK63RF3)
+  [7a](https://www.amazon.de/Google-Pixel-128GB-8GB-Dual-SIM-hellblau/dp/B0BZJM3742/)
+  [7a+Ladegerät](https://www.amazon.de/Google-Pixel-Ladeger%C3%A4t-5G-f%C3%A4higes-Android-Smartphone-Weitwinkelobjektiv/dp/B0BZYNGVDK/)
+  [8](https://www.amazon.de/Google-Pixel-Android-Smartphone-leistungsstarker-Sicherheitsfunktionen/dp/B0CGVPKKCP/)
+  [8a](https://www.amazon.de/dp/B0CXJ9XSVZ/)
