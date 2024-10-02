@@ -43,6 +43,19 @@
 
 ## DE immigrants
 
+### Ausländerbehörde
+
+Places:
+- Stuttgart:
+  [contacts](https://www.stuttgart.de/buergerinnen-und-buerger/migranten/informationen-der-auslaenderbehoerde/auslaenderbehoerde-terminvereinbarung.php)
+  [services](https://stuttgart.konsentas.de/form/7/?signup_new=1)
+  <details><summary>services</summary>
+
+  - [Übertragung eines bestehenden Aufenthaltstitels](https://www.stuttgart.de/organigramm/leistungen/uebertragung-eines-bestehenden-aufenthaltstitels-auf-einen-neuen-nationalpass.php?p=1118%2C1561%2C%2Fservice%2Fdienstleistungen%2Findex.php%2C304287)
+
+  </details>
+
+Services:
 - [Daueraufenthalt-EU](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetLangfristigerAufenthalt/mobilitaet-langfristigeraufenthalt-node.html):
 
   - legal basis: AufenthG
@@ -62,7 +75,7 @@
 
   </details>
 
-- NE
+- [Niederlassungserlaubnis](https://en.wikipedia.org/wiki/German_residence_permit)
   - legal basis: AufenthG
     [§18c](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
   - misc:
@@ -82,9 +95,19 @@
 
   </details>
 
-- Einbuergerung
-  - legal basis: AufenthG
-    [§18c](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
+### Other
+
+Places:
+- Stuttgart:
+  [Einbürgerungsbehörde](https://www.stuttgart.de/organigramm/leistungen/einbuergerung-fuer-auslaender-mit-einbuergerungsanspruch-beantragen.php)
+
+Services:
+- [Einbürgerung](https://de.wikipedia.org/wiki/Einb%C3%BCrgerung#Deutschland)
+  - legal basis:
+    [§10 StARModG](https://www.gesetze-im-internet.de/stag/__10.html)
+    [§10 StAG](https://www.gesetze-im-internet.de/stag/BJNR005830913.html)
+    [§38 StAG](https://www.gesetze-im-internet.de/stag/__38.html)
+    <!-- [§18c AufenthG](https://www.stuttgart.de/medien/ibs/32-41_1530_antrag_auf_einbuergerung.pdf) -->
   - misc:
     [web](https://www.gesetze-im-internet.de/aufenthg_2004/__9a.html)
     [Stuttgart](https://www.stuttgart.de/organigramm/leistungen/einbuergerung-fuer-auslaender-mit-einbuergerungsanspruch-beantragen.php)
@@ -94,6 +117,15 @@
     - 1 biometrisches Passfoto
     - Sprache (Niveau B1)
     - [Integrationskurse](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html;jsessionid=A6ED2DBAC51972FB51F42A0FA5CC87C8.intranet372)
+      <details><summary>places</summary>
+
+      Einbürgerungstest bei der Volkshochschule:
+      - [TREFFPUNKT Rotebuehlplatz](https://www.treffpunkt-rotebuehlplatz.de): 4M+ waiting
+      - [EZ-plus](https://www.ezplus.de/kontakt/): 1M+ waiting
+
+      </details>
+
+
     - [Beitragsnachweis](https://www.deutsche-rentenversicherung.de/SharedDocs/Glossareintraege/DE/B/beitragsnachweis.html):
       [register](https://www.deutsche-rentenversicherung.de/DRV/DE/Kundenportal/kundenportal-node.html)
     - [Wohnraumnachweis](https://www.stuttgart.de/medien/ibs/32-41_0549.pdf)
@@ -102,23 +134,13 @@
       [v1](www.berlin.de/gerichte/kammergericht/_assets/rechtsreferendariat/bewerbungsverfahren/erklaerung_zu_vorstrafen.pdf)
   
   </details>
-
-- Ausländerbehörde:
-  [contacts](https://www.stuttgart.de/buergerinnen-und-buerger/migranten/informationen-der-auslaenderbehoerde/auslaenderbehoerde-terminvereinbarung.php)
-  [services](https://stuttgart.konsentas.de/form/7/?signup_new=1)
-  <details><summary>services</summary>
-
-  - [Übertragung eines bestehenden Aufenthaltstitels](https://www.stuttgart.de/organigramm/leistungen/uebertragung-eines-bestehenden-aufenthaltstitels-auf-einen-neuen-nationalpass.php?p=1118%2C1561%2C%2Fservice%2Fdienstleistungen%2Findex.php%2C304287)
-
-  </details>
-
 # Misc
 
 ## Live in Stuttgart (BW)
 
 
 - LBV Portal
-  <details>
+  <details><summary>links</summary>
 
   - https://kp.lbv.landbw.de/
   - https://lbv.landbw.de/startseite
