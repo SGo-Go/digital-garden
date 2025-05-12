@@ -10,7 +10,18 @@
 
 [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping)
 
-## Atrs
+## R&D
+
+### AI
+
+- Nobel prizes :
+  - `2024` (physics):
+    [John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield),
+    [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) [^Nobel-physics-prize-2024]
+
+[^Nobel-physics-prize-2024]: Nobel physics prize 2024 won by AI pioneers John Hopfield and Geoffrey Hinton [reuters](https://www.reuters.com/science/hopfield-hinton-win-2024-nobel-prize-physics-2024-10-08/)
+
+## Arts
 
 - [Herluf Bidstrup](https://en.wikipedia.org/wiki/Herluf_Bidstrup) (comics)
 - Дмитро Зезюлін («Latexfauna»)
@@ -32,3 +43,14 @@
 
 - [Микола Баєр](https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%94%D1%80_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) (granpa of [Andre Geim](https://en.wikipedia.org/wiki/Andre_Geim))
 - [Alexei Beketov](https://en.wikipedia.org/wiki/Alexei_Beketov)
+- modern:
+  [Алла Загайкевич](https://en.wikipedia.org/wiki/Alla_Zahaikevych)
+  [Артем Чех](https://en.wikipedia.org/wiki/Artem_Chekh)
+  [Український інститут](https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82)
+
+## Descendants
+
+- [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck)
+  - Phil Hoad
+    (2024) "He was in mystic delirium": was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?
+    [article:guardian](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)

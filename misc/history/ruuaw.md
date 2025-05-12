@@ -109,8 +109,11 @@ TED talks:
 ### Legal 
 
 - Sperm law [^sperm-law]
+- Entry ban for double citizenship (e.g.: UA-US) owners [^double-citizenship-law]
 
 [^sperm-law]: https://ua.korrespondent.net/ukraine/4662074-kinets-skandalu-zi-spermoui-rada-zakhystyla-viiskovykh
+
+[^double-citizenship-law]: https://ua.korrespondent.net/ukraine/4691922-ukraintsi-z-podviinym-hromadianstvom-bilshe-ne-zmozhut-vyikhaty-z-ukrainy
 
 ### Nature
 
