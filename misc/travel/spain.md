@@ -18,7 +18,7 @@
 - **[El Chorro]**:
   [Caminito del Rey] [^Caminito_del_Rey-Tickets]
 - **[Tarifa]**:
-  [Bolonia dunes] (with *ruins of Baelo City*),
+  [Bolonia dunes] (with *ruins of [Baelo Claudia]*),
   sunset over Morocco/[Gibraltar] at [Mirador África]
 - **[Cadiz]**:
   city center
@@ -27,7 +27,7 @@
 - **[Fuengirola]**/**[Mijas]**:
   [Bioparc] (especially lemurs),
   Los Boliches, 
-  [Mijas Puebla] (:sunrise_over_mountains: sunset + museums)
+  [Mijas Puebla] (:sunrise: sunset + museums)
 - **[Ronda]**/**[Marbella]**:
   [Puente Nuevo]
 
@@ -35,11 +35,11 @@
 [^Caminito_del_Rey-Tickets]: Better purchase ticket in advance https://www.caminitodelrey.info/en/tickets/buy
 
 **Cities/Towns by Activity**:
-- tapas: Granada, Fuengirola
-- surfing: Tarifa, Marbella, Fuengirola
-- kyting & wind-surfing: Tarifa
-- kayaking: Nerja
-- beaches & nightlife: Nerja, Marbella, Fuengirola
+- [tapas]: [Granada], [Fuengirola]
+- surfing: [Tarifa], [Marbella], [Fuengirola]
+- kyting & wind-surfing: [Tarifa]
+- kayaking: [Nerja]
+- beaches & nightlife: [Nerja], [Marbella], [Fuengirola]
 
 ```geojson
 {
@@ -49,11 +49,23 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-5.771191918617616, 36.09019996640611]
+                "coordinates": [-5.7712889756200365, 36.090034289125505]
             },
             "properties": {
                 "name": "Baelo Claudia",
-                "type": "ruins"
+                "type": "ruins",
+                "url": "https://www.google.com/maps/@36.090034289125505,-5.7712889756200365,18z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.780891283282309, 36.08963547316405]
+            },
+            "properties": {
+                "name": "Bolonia dunes",
+                "type": "beach"
             }
         },
         {
@@ -149,9 +161,15 @@
 ```
 
 **Public Transport**:
-- :oncoming_bus: [Avanza](https://malaga.avanzagrupo.com/en) [![wiki:about](https://img.shields.io/badge/about-gray.svg?logo=Wikipedia)](https://es.wikipedia.org/wiki/Grupo_Avanza)
-- :oncoming_bus: [ALSA](https://www.alsa.com/en/web/bus/home) [![wiki:about](https://img.shields.io/badge/about-gray.svg?logo=Wikipedia)](https://en.wikipedia.org/wiki/Alsa_(bus_company))
-- :metro: [Málaga Metro](https://metromalaga.es/en/timetable/) [![wiki:about](https://img.shields.io/badge/about-gray.svg?logo=Wikipedia)](https://en.wikipedia.org/wiki/M%C3%A1laga_Metro)
+- :oncoming_bus: [Avanza]:
+  [tickets][tickets:Avanza]
+  [schedule][schedule:Avanza]
+- :oncoming_bus: [ALSA]:
+  [tickets][tickets:ALSA]
+  [schedule][schedule:ALSA]
+- :metro:        [Málaga Metro]:
+  [tickets][tickets:Málaga Metro]
+  [schedule][schedule:Málaga Metro]
 
 ## Details by Province
 
@@ -163,8 +181,9 @@ To see:
 [Caminito del Rey](https://en.wikipedia.org/wiki/Caminito_del_Rey)
 [Cueva de Nerja](https://en.wikipedia.org/wiki/Caves_of_Nerja)
 
+`geojson
 ```geojson
-{
+{`
     "type": "FeatureCollection",
     "features": [
         {
@@ -239,7 +258,7 @@ To see:
 
 </details>
 
-<details><summary>Province of Málaga</summary>
+<details><summary>Province of Granada</summary>
 
 ### Province of [Granada](https://en.wikipedia.org/wiki/Granada)
 
@@ -248,7 +267,7 @@ To see:
 
 </details>
 
-<details><summary>Province of Málaga</summary>
+<details><summary>Province of Huelva</summary>
 
 ### Province of [Huelva](https://en.wikipedia.org/wiki/Huelva)
 
@@ -278,6 +297,7 @@ To see:
 [Nerja Cave]: https://en.wikipedia.org/wiki/Caves_of_Nerja
 [Caminito del Rey]: https://en.wikipedia.org/wiki/Caminito_del_Rey
 [Bolonia dunes]: https://en.wikipedia.org/wiki/Bolonia,_Spain
+[Baelo Claudia]: https://en.wikipedia.org/wiki/Baelo_Claudia
 [Mijas Puebla]: https://en.wikipedia.org/wiki/Mijas_Pueblo
 [Puente Nuevo]: https://en.wikipedia.org/wiki/Puente_Nuevo
 
@@ -287,6 +307,20 @@ To see:
 
 <!-- terminology -->
 
-[tapa]: https://en.wikipedia.org/wiki/Tapas
+[tapas]: https://en.wikipedia.org/wiki/Tapas
 [tariteria]: https://en.wikipedia.org/wiki/Tapas
 [tinto de verano]: https://en.wikipedia.org/wiki/Tinto_de_verano
+
+<!-- transportation -->
+
+[Avanza]: https://es.wikipedia.org/wiki/Grupo_Avanza
+[ALSA]: https://en.wikipedia.org/wiki/Alsa_(bus_company)
+[Málaga Metro]: https://en.wikipedia.org/wiki/M%C3%A1laga_Metro
+
+[tickets:Avanza]: https://malaga.avanzagrupo.com/en
+[tickets:ALSA]: https://www.alsa.com/en/web/bus/home
+[tickets:Málaga Metro]: https://metromalaga.es/en/tickets-and-fares/
+
+[schedule:Avanza]: https://malaga.avanzagrupo.com/en
+[schedule:ALSA]: https://www.alsa.com/en/bus-schedules
+[schedule:Málaga Metro]: https://metromalaga.es/en/timetable/
