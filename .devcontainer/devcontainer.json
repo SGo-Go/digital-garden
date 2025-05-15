@@ -1,0 +1,52 @@
+{
+    "name": "digital-garden-${localEnv:USER}",
+    "service": "digital_garden",
+    "workspaceFolder": "/workspace",
+    "dockerComposeFile": [
+        "docker-compose.base.yml",
+        "docker-compose.user.yml"
+    ],
+    "remoteEnv": {
+        "DISPLAY": "${localEnv:DISPLAY}",
+        "http_proxy": "${localEnv:http_proxy}",
+        "https_proxy": "${localEnv:https_proxy}",
+        "HTTP_PROXY": "${localEnv:HTTP_PROXY}",
+        "HTTPS_PROXY": "${localEnv:HTTPS_PROXY}",
+        "WORKSPACE_FOLDER": "${containerWorkspaceFolder}"
+    },
+    "initializeCommand": "python3 ${localWorkspaceFolder}/.devcontainer/initialize.py",
+    "postCreateCommand": "python3 ${containerWorkspaceFolder}/.devcontainer/post_create.py",
+    "postAttachCommand": "python3 ${containerWorkspaceFolder}/.devcontainer/post_attach.py",
+    // "forwardPorts": [8006],
+    // "appPort": [ 8006, 8080 ],
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "http.proxyStrictSSL": false
+            },
+            "extensions": [
+                // MD preview experience
+                "bierner.markdown-emoji",
+                "bierner.markdown-footnotes",
+                "bierner.markdown-mermaid",
+                "kejun.markdown-alert",
+
+                "augustocdias.tasks-shell-input",
+                "eamodio.gitlens",
+                "github.copilot-chat",
+                "github.copilot",
+                "github.vscode-pull-request-github",
+                "harrydowning.yaml-embedded-languages",
+                "ms-python.black-formatter",
+                "ms-python.debugpy",
+                "ms-python.isort",
+                "ms-python.mypy-type-checker",
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-vscode-remote.remote-containers",
+                "njpwerner.autodocstring",
+                "streetsidesoftware.code-spell-checker"
+            ]
+        }
+    }
+}

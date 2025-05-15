@@ -1,0 +1,28 @@
+services:
+  digital_garden:
+    user: ${USER}
+    image: digital_garden_devcontainer
+    build:
+      network: host
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+      args:
+        DOCKER_BUILDKIT: 1
+        USERNAME: ${USER}
+        USER_UID: 1000
+        USER_GID: 1000
+        HTTP_PROXY: ${HTTP_PROXY}
+        HTTPS_PROXY: ${HTTPS_PROXY}
+    volumes:
+      - ..:/workspace:cached
+      - ${HOME}/.ssh:/home/${USER}/.ssh:ro
+      - ${HOME}/.gitconfig:/home/${USER}/.gitconfig
+    environment:
+      HTTP_LOCAL_PROXY: ${HTTP_PROXY}
+      HTTPS_LOCAL_PROXY: ${HTTPS_PROXY}
+      http_local_proxy: ${http_proxy}
+      https_local_proxy: ${https_proxy}
+      DISPLAY: ${DISPLAY}
+    network_mode: host
+    shm_size: 16gb
+    tty: true
