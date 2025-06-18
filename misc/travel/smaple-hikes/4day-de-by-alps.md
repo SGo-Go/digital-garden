@@ -30,13 +30,16 @@ Stuttgart-Vaihingen $\to$ Berchtesgaden (earliest 7am) - 8h:
 - BRB S4: Berchtesgaden Hbf
 - 841/843: Königssee, Schönau a. Königssee (9:15-)
 
-Berchtesgaden $\to$ Ehrwald Zugspitzbahn (:30) - 5h:
+Berchtesgaden $\to$ Ehrwald Zugspitzbahn (11:30) - 5h:
 - BRB S4: Freilassing
 - BRB RE5 (79026): München Hbf Gl.5-10 $\to$ [Gl.27-36]
 - RB6 (59475): Garmisch-Partenkirchen
 - RB60 (5522): Pfronten-Steinach
 
-https://maps.app.goo.gl/wuUVJu4kUtPxSptD9
+Ehrwald Zugspitzarena (15:30) - 5.5h:
+- S7: Pfronten-Steinach
+- RB73 (57820): Kempten(Allgäu)Hbf
+- RE75 (3692): Ulm Hbf
 
 ## Events
 
