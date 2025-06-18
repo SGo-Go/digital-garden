@@ -1,2 +1,4 @@
+Jinja2
 pandas
 pandas-geojson # https://pypi.org/project/pandas-geojson/
+pyyaml
